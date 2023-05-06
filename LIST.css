@@ -59,20 +59,7 @@ a:active {
     justify-content: space-evenly;
     align-items: center;
 }
-.block1 {
-    margin: 2%;
-}
-.block2 {
-    margin: 2%;
-    margin-right: 5%;
-}
-.block3 {
-    margin: 2%;
-    margin-left: 5%;
-}
-.block4 {
-    margin: 2%;
-}
+
 
 .titre {
     font-size: 50px;
